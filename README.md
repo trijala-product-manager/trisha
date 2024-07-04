@@ -1,2 +1,2 @@
 # trisha
-This is a demo repository
+This is my new demo repository.
